@@ -5,4 +5,4 @@
 <p>The script is located in the calc.html file, and can just be Copy/Pasted to your website or a file on your Desktop.</p>
 
 
-<img src="https://raw.githubusercontent.com/rune1979/compounding_interest_calculator/master/screendump.png" alt="Screenshot of compounding interest calculator"> 
+<a href="https://github.com/rune1979/compounding_interest_calculator/blob/master/calc.html"><img src="https://raw.githubusercontent.com/rune1979/compounding_interest_calculator/master/screendump.png" alt="Screenshot of compounding interest calculator"></a> 
